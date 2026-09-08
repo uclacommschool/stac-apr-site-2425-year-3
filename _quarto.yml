@@ -45,6 +45,7 @@ format:
       - brand
     css: styles.css
     toc: false
+    include-before-body: banner.html
 
 editor: visual
 
